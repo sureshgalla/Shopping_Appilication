@@ -1,0 +1,75 @@
+.home{
+    position: absolute;
+    width: 1536px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: #F28B11;
+}
+
+.homeIcon{
+    position: absolute;
+left: 5.9%;
+right: 91.67%;
+top: 24.3%;
+bottom: 92.8%;
+ 
+}
+
+.homeStyle{
+    
+position: absolute;
+width: 140px;
+height: 31px;
+left: 138px;
+top: 24.59px;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4545px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.lineStyle{
+    position: absolute;
+width: 45px;
+height: 0px;
+left: 200px;
+top: 37px;
+
+border: 0.5px solid #000000;
+transform: rotate(90deg);
+}
+
+.cartStyle{
+    position: absolute;
+width: 79px;
+height: 35px;
+left: 250px;
+top: 24.59px;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 28.7273px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.cartIconStyle{
+    position: absolute;
+left: 20.31%;
+right: 70.83%;
+top: 35.5%;
+bottom: 92.28%;
+
+}

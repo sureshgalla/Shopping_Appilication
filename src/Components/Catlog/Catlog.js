@@ -18,6 +18,7 @@ export class Catlog extends Component {
       <div>
          
         {this.props.products.map((item, i)=><ProductsPage key={i} item={item} addToCart={this.props.addToCart}/>)}
+      
       </div>
     )
   }
